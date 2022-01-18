@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./persondetail.component.css']
 })
 export class PersondetailComponent implements OnInit {
-
+msg ='hello';
   constructor() { }
 
   ngOnInit(): void {
