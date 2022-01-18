@@ -1,3 +1,4 @@
 export interface Article {
-  title:string
+  title:string,
+  author:string
 }
